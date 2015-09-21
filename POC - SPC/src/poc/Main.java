@@ -14,7 +14,7 @@ class Main {
 		
 		try {
 		    String userHandle_USD = usd.getHandleForUserid(sid, "control-m");
-		    //String resumo = "Falha na execução de job";
+		    //String resumo = "Falha na execução de job";s
 		    //String descricao = "Falha na execução do JOB 2131231 programado para a data 232323";
 		    String resumo = args[0];
 		    String descricao = args[1];
