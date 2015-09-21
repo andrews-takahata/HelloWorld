@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/axis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/axis-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/commons-discovery.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/commons-io-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/httpcore-nio-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/httpmime-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/javax.servlet_2.5.0.v200806031605.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/javax.wvcm_1.4.0.v20110623_0150.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/net.oauth_0.1.20081128.v20110922_1848.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.apache.commons.codec_1.3.0.v20080530-1600.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.apache.commons.httpclient_3.1.0.v20080605-1935.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.apache.commons.logging_1.0.4.v200904062259.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.core.filesystem_1.2.1.R35x_v20091203-1235.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.core.filesystem_1.2.2.R35x_v20100928-0452.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.core.jobs_3.4.100.v20090429-1800.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.core.resources_3.5.2.R35x_v20091203-1235.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.core.resources_3.5.3.R35x_v20100928-0452.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.core.runtime_3.5.0.v20090525.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.emf.common_2.5.0.v200906151043.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.emf.ecore.change_2.5.0.v200906151043.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.emf.ecore.xmi_2.5.0.v200906151043.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.emf.ecore_2.5.0.v200906151043.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.equinox.common_3.5.1.R35x_v20090807-1100.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.equinox.preferences_3.2.301.R35x_v20091117.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.equinox.registry_3.4.100.v20090520-1800.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.jface.text_3.5.2.r352_v20091118-0800.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.osgi_3.5.2.R35x_v20100126.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.text_3.5.0.v20090513-2000.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/org.eclipse.xsd_2.5.0.v200906151043.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/saaj.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/stubs_usd_125.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrews/Google Drive/Workspace Java/POC - SPC/libs/wsdl4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
