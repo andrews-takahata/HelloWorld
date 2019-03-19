@@ -17,34 +17,26 @@ app.get('/api/today', function (req, res) {
 
 app.get('/api/consulta-userr', function (req, res) {
    
-    var sql = require("mssql");
+    var sql = "select * from user";
 
     // config for your database
-    var config = {
+    var con = mysql.createConnection({
         user: 'root',
         password: 'senhaFiap',
-        server: 'mysql', 
+        host: 'mysql', 
         database: 'castillo' 
-    };
+    });
 
     // connect to your database
-    sql.connect(config, function (err) {
-    
-        if (err) console.log(err);
-
-        // create Request object
-        var request = new sql.Request();
-           
-        // query to the database and get the records
-        request.query('select * from user', function (err, recordset) {
-            
-            if (err) console.log(err)
-
-            // send records as a response
-            res.send(recordset);
-            
-        });
-    });
+   con.connect(function(err) {
+	   if (err) throw err;
+	   console.log("Connected");
+	   con.query(sql, function (err, result){
+		   if (err) throw err;
+		   console.log("Result: " + result);
+	   });
+	 
+   });  
 });
 
 module.exports = app
