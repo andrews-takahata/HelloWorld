@@ -15,9 +15,11 @@ app.get('/api/today', function (req, res) {
 
 
 
-app.get('/api/consulta-userr', function (req, res) {
+app.get('/api/consulta-user', function (req, res) {
    
-    var sql = "select * from user";
+    var mysql = require('mysql');
+	
+	var sql = "select * from user";
 
     // config for your database
     var con = mysql.createConnection({
